@@ -1,0 +1,15 @@
+name = "differential"
+uuid = "6b7126c9-2a38-47c8-b9ed-81fd99ba873a"
+version = "0.0.1"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+
+[compat]
+CUDA = "5.8.1"
+LinearAlgebra = "1.11.0"
+NNlib = "0.9.30"
+Zygote = "0.7.7"

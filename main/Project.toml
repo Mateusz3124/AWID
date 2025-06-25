@@ -1,0 +1,15 @@
+name = "main"
+uuid = "f438f6c1-c986-43a6-a6c8-1057a7744f4f"
+authors = ["Your Name <you@example.com>"]
+version = "0.1.0"
+
+[deps]
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
+net = "8d3348c4-04d7-4704-9eed-1a6fdfb00a04"
+
+[compat]
+Flux = "0.16.4"
+JLD2 = "0.5.13"
+ProfileView = "1.10.1"
